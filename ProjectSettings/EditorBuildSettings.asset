@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Resources/MainMenu.unity
+    guid: b0e423b02de0d1444bc071de84905120
+  - enabled: 1
+    path: Assets/Import/EasyStart Third Person Controller/TP.unity
+    guid: 178b21e430bd2ab48a2ffea83ef649e5
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
